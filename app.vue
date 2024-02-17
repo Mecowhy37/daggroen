@@ -1,5 +1,32 @@
 <template>
-  <div>
-    <h2>Welcome to Dag Groen!</h2>
+  <div class="full">
+    <h1>Welcome to Dag Groen! 🥺</h1>
   </div>
 </template>
+
+<style>
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+
+html,
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Bree Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.full {
+  display: grid;
+  width: 100dvw;
+  height: 100dvh;
+  background-color: #eedfbb;
+}
+.full > * {
+  place-self: center;
+  color: #faf6eb;
+  text-align: center;
+  margin-bottom: 5%;
+}
+</style>

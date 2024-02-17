@@ -27,6 +27,6 @@ html,
   place-self: center;
   color: #faf6eb;
   text-align: center;
-  margin-bottom: 5%;
+  margin-bottom: 2rem;
 }
 </style>

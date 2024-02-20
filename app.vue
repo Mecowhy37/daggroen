@@ -25,7 +25,7 @@ html,
 }
 .full > * {
   place-self: center;
-  color: #faf6eb;
+  color: hsl(44, 60%, 98%);
   text-align: center;
   margin-bottom: 2rem;
 }

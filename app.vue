@@ -29,4 +29,7 @@ html,
   text-align: center;
   margin-bottom: 2rem;
 }
+.full span {
+  white-space: nowrap;
+}
 </style>

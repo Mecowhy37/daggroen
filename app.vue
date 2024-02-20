@@ -1,6 +1,6 @@
 <template>
   <div class="full">
-    <h1>Welcome to Dag Groen! ˶ᵔ ᵕ ᵔ˶</h1>
+    <h1>Welcome to Dag Groen! <span>˶ᵔ ᵕ ᵔ˶</span></h1>
   </div>
 </template>
 

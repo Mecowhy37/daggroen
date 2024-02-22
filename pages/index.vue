@@ -1,5 +1,7 @@
 <template>
-  <div class="custom-class grid h-dvh place-content-center text-green-400">
+  <div
+    class="custom-class grid h-dvh place-content-center text-center text-green-400"
+  >
     <h1 class="text-3xl">
       Welcome to Dag Groen! <span class="text-nowrap">˶ᵔ ᵕ ᵔ˶</span>
     </h1>
